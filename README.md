@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **on using backtracking to solve optimization problems**
 
-- 👯 I’m looking to collaborate on **Oyster**
+- 👯 Currently building **DailyDose**
 
 - 💬 Ask me about **literally anything**
 
