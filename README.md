@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there! I'm Desola 👋 ✨</h1>
+<h1 align="center">✨ Hi! I'm Desola 🥹🤎 </h1>
 <h3 align="center">🎓 Computer Engineer| 🌱 Lifelong Learner & Builder</h3>
 
 ---
