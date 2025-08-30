@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hi! I'm Desola 🥹🤎 </h1>
-<h3 align="center">🎓 Computer Engineer| 🌱 Lifelong Learner & Builder</h3>
+<h1 align="center">Hi! I'm Desola 🥹🤎 </h1>
+<h3 align="center">🎓 Computer engineer| 🌱 music lover and builder</h3>
 
 ---
 
