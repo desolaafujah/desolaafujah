@@ -1,13 +1,5 @@
 <h1 align="center">✨ Hi there! I'm Desola 👋 ✨</h1>
-<h3 align="center">🎓 Computer Engineering @ University of Michigan | 🌱 Lifelong Learner & Builder</h3>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=desolaafujah&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="trophies" />
-  </a>
-</p>
+<h3 align="center">🎓 Computer Engineer| 🌱 Lifelong Learner & Builder</h3>
 
 ---
 
