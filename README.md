@@ -1,12 +1,13 @@
 <h1 align="center">Hi! I'm Desola 🥹🤎 </h1>
-<h3 align="center">🎓 Computer engineer| 🌱 music lover and builder</h3>
+<h3 align="center">🎓 Computer Engineer| Music lover and builder</h3>
 
 ---
 
-### 🌸 About Me
+### 🤎 About Me
 - 🌱 Currently exploring infrastructure engineering and dependency management :)
 - 💬 Ask me about **literally anything** — I love good conversations!  
-- 📫 Reach me at **desolafujah365@gmail.com**  
+- 📫 Reach me at **desolafujah365@gmail.com**
+- 🎱 I love playing pool
 
 ---
 
