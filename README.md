@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,sqlite,docker,nginx,html,css,bootstrap,jest" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,sqlite,docker,nginx,html,css,bootstrap,jest,temporal,golang,aws" />
 </p>
 
 ---
