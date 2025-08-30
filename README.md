@@ -12,8 +12,7 @@
 ---
 
 ### 🌸 About Me
-- 🌱 Currently exploring **backtracking for optimization problems**  
-- 👯 Building **DailyDose** (a passion project 💡)  
+- 🌱 Currently exploring infrastructure engineering and dependency management :)
 - 💬 Ask me about **literally anything** — I love good conversations!  
 - 📫 Reach me at **desolafujah365@gmail.com**  
 
