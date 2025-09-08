@@ -11,7 +11,7 @@
 
 ---
 
-### 🤝 Let’s Connect!
+### 🌵 Let’s Connect!
 <p align="center">
   <a href="https://linkedin.com/in/desolafujah" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
